@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Python development, Gemini API usage, C++ development, basic neural networks**
 
-- 💬 Ask me about **Python, CPP, C, Godot gaming engine, QT, GTK**
+- 💬 Ask me about **Python, CPP, C, Godot gaming engine, QT, GTK, SQL**
 
 - 📫 How to reach me **Discord: taketsu_07**
 
