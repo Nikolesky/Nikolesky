@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, REACTJS**
 
-- 🤝 I’m looking for help with **Python development, Gemini API usage, C++ development, basic neural networks**
+- 🤝 I’m comfortable working with **Python development, Gemini API usage, C++ development, basic neural networks**
 
 - 💬 Ask me about **Python, CPP, C, Godot gaming engine, QT, GTK, SQL**
 
