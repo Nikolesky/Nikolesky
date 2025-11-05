@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikolesky</h1>
 <h3 align="center">A weeb who does backend development as a hobby 💻✨</h3>
 
-<p align="center">
+[<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikolesky&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+</p>](https://github-profile-trophy.vercel.app/?username=nikolesky&theme=tokyonight&no-frame=true&margin-w=15
+)
 
 ---
 
