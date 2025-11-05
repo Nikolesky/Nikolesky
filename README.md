@@ -3,7 +3,7 @@
 
 [<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikolesky&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>](https://github-profile-trophy.vercel.app/?username=nikolesky&theme=tokyonight&no-frame=true&margin-w=15
+</p>]
 )
 
 ---
