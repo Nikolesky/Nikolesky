@@ -8,11 +8,11 @@
 ---
 
 - 🔭 I’m currently working on [**Charlotte — my personalized AI assistant**](https://github.com/Nikolesky/Charlotte)
-- 🌱 I’m currently learning **HTML, CSS, ReactJS**
-- 🤝 Comfortable with **Python, Gemini API, C++, basic neural networks**
+- 🌱 I’m currently learning **Quantitative finances and field theory**
+- 🤝 Comfortable with **Python, Gemini API, C++, Machine learning, statistics, some nerdy physics stuff hehe :)**
 - 💬 Ask me about **Python, C++, C, Godot Engine, Qt, GTK, SQL**
 - 📫 Reach me on **Discord:** `taketsu_07`
-- ⚡ Fun fact: *I secretly like isekai anime T_T*
+- ⚡ Fun fact: *might be trans (prefer non-binary though)*
 
 ---
 
